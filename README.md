@@ -4,4 +4,4 @@ Repositório que reúne meus projetos em desenvolvimento de software tais como A
 1 - [QRCODEGENERATOR](https://github.com/Orion-Hunter/qrcodegenerator)
 
 
-2 - [API SALA DO EMPREENDEDOR-Prefeitura de Marabá](https://github.com/Orion-Hunter/SaladoEmpreendedor)
+2 - [API Autenticação com JWT](https://github.com/Orion-Hunter/jwt-auth)
